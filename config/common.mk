@@ -142,6 +142,9 @@ PRODUCT_PACKAGES += \
     misc_writer_system \
     themed_bootanimation
 
+PRODUCT_PACKAGES += \
+    BrightnessSliderOverlay
+
 ifeq ($(DERP_BUILD_ZIP_TYPE), GAPPS)
 # GApps
 include vendor/gapps/config.mk
