@@ -14,7 +14,7 @@ PRODUCT_PACKAGES += \
     messaging
 endif
 
-ifeq ($(filter-out Official CI Private, $(DERP_BUILDTYPE)),)
+ifeq ($(filter-out Official Synthetic CI Private, $(DERP_BUILDTYPE)),)
     PRODUCT_PACKAGES += \
         OpenDelta
 endif
