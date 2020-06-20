@@ -2,7 +2,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
   <!-- SynthUI -->
-  <dimen name="qs_panel_secundary_top_margin">284dp</dimen>
+  <dimen name="qs_panel_secundary_top_margin">254dp</dimen>
   <dimen name="qs_expanded_status_icons_bottom_margin">16dp</dimen>
 
 </resources>
