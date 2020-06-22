@@ -19,7 +19,7 @@ ifeq ($(filter-out Official Synthetic CI Private, $(DERP_BUILDTYPE)),)
         OpenDelta
 endif
 
-ifeq ($(DERP_BUILD_ZIP_TYPE), GAPPS)
+ifneq ($(DERP_BUILD_ZIP_TYPE), VANILLA)
 PRODUCT_PACKAGES += \
     PixelLiveWallpaperPrebuilt
 endif
