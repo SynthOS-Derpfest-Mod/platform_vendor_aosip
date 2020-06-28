@@ -63,3 +63,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     HideCutout \
     StatusBarStock
+
+PRODUCT_PACKAGES += \
+		BrightnessSliderOverlay\
+		BrightnessSliderSystemUIOverlay

@@ -137,11 +137,6 @@ PRODUCT_PACKAGES += \
     misc_writer_system \
     themed_bootanimation
 
-PRODUCT_PACKAGES += \
-    BrightnessSliderOverlay\
-    BrightnessSliderSystemUIOverlay
-
-
 # Pixel Style
 include vendor/pixelstyle/config.mk
 
