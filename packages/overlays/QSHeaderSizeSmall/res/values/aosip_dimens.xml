@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SynthUI -->
+    <dimen name="qs_panel_header_image_offset">108dp</dimen>
+    <dimen name="qs_header_image_secondary_top_margin">82dp</dimen>
+
+</resources>

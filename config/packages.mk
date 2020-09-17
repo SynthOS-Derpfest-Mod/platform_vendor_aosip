@@ -64,5 +64,6 @@ PRODUCT_PACKAGES += \
     StatusBarStock
 
 PRODUCT_PACKAGES += \
-		BrightnessSliderOverlay\
-		BrightnessSliderSystemUIOverlay
+		BrightnessSliderOverlay \
+		BrightnessSliderSystemUIOverlay \
+		QSHeaderSizeSmall
